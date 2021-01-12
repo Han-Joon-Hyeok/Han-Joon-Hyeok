@@ -48,9 +48,8 @@
   <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white"/>
 </p>
 
- <p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Han-Joon-Hyeok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Han-Joon-Hyeok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 
 <!--
