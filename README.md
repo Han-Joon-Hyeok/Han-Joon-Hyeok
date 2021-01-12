@@ -1,5 +1,5 @@
 <h1> Hi there, I'm Joon 👋 </h1>
-<h3>I'm a junior frontend developer working in South Korea 🇰🇷</h3>
+<h3>I'm a web developer working in South Korea 🇰🇷</h3>
 
 
 ## Tech Stacks ⚡
