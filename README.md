@@ -1,6 +1,7 @@
 <h1> Hi there, I'm Joon 👋 </h1>
 <h3>I'm a web developer working in South Korea 🇰🇷</h3>
 
+- Tech Blog : [https://han-joon-hyeok.github.io/](https://han-joon-hyeok.github.io/)
 
 ## Tech Stacks ⚡
 <h4> Frontend </h4>
