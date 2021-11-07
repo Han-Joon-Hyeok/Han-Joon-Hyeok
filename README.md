@@ -1,8 +1,10 @@
 <h1> Hi there, I'm Joon 👋 </h1>
 
+- [Portfolio](https://bold-monday-4bf.notion.site/Frontend-Developer-f51615aa76d340bc874521c6b4e70e80)
 - Tech Blog : [https://han-joon-hyeok.github.io/](https://han-joon-hyeok.github.io/)
 
 ## Tech Stacks ⚡
+
 <h4> Frontend </h4>
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -50,8 +52,6 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Han-Joon-Hyeok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
-
 
 <!--
 **Han-Joon-Hyeok/Han-Joon-Hyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -76,7 +76,7 @@ Reference Sites
   - https://github.com/abhisheknaiidu/awesome-github-profile-readme
   - https://metleeha.tistory.com/entry/깃헙-프로필-꾸미기
 
-- Markdown Badges 
+- Markdown Badges
   - https://github.com/Ileriayo/markdown-badges
   - https://simpleicons.org/
 
