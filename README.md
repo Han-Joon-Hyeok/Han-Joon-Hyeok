@@ -1,7 +1,7 @@
 <h1> Hi there, I'm Joon 👋 </h1>
 
-- [Portfolio](https://bold-monday-4bf.notion.site/Frontend-Developer-f51615aa76d340bc874521c6b4e70e80)
-- Tech Blog : [https://han-joon-hyeok.github.io/](https://han-joon-hyeok.github.io/)
+[Portfolio →](https://joon-hyuk.notion.site/Frontend-Developer-f51615aa76d340bc874521c6b4e70e80)
+[Tech Blog →](https://han-joon-hyeok.github.io/)
 
 ## Tech Stacks ⚡
 
