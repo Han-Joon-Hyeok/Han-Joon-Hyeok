@@ -1,6 +1,6 @@
 <h1> Hi there, I'm Joon 👋 </h1>
 
-[Portfolio →](https://joon-hyuk.notion.site/Frontend-Developer-f51615aa76d340bc874521c6b4e70e80)
+[Portfolio →](https://joon-hyuk-han.notion.site/Frontend-Developer-f51615aa76d340bc874521c6b4e70e80)
 
 [Tech Blog →](https://han-joon-hyeok.github.io/)
 
